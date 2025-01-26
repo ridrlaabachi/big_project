@@ -1,3 +1,9 @@
 git add .
 git commit -m "وصف التعديل"
 git push
+
+
+
+
+
+git pull origin main
